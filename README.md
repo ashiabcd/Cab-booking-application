@@ -1,2 +1,2 @@
 # Cab-booking-application
-A cab booking application using java!
+A cab booking application using java swing!
